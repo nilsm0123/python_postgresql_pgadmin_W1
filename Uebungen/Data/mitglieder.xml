@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mitglieder>
+  <mitglied>
+    <mitglied_id>1</mitglied_id>
+    <name>Anna</name>
+    <team>U15</team>
+    <eintritt>2022</eintritt>
+  </mitglied>
+  <mitglied>
+    <mitglied_id>2</mitglied_id>
+    <name>Luca</name>
+    <team>U15</team>
+    <eintritt>2023</eintritt>
+  </mitglied>
+  <mitglied>
+    <mitglied_id>3</mitglied_id>
+    <name>Mia</name>
+    <team>Damen 1</team>
+    <eintritt>2019</eintritt>
+  </mitglied>
+  <mitglied>
+    <mitglied_id>4</mitglied_id>
+    <name>Noah</name>
+    <team>Herren 1</team>
+    <eintritt>2020</eintritt>
+  </mitglied>
+  <mitglied>
+    <mitglied_id>5</mitglied_id>
+    <name>Lea</name>
+    <team>Damen 1</team>
+    <eintritt>2021</eintritt>
+  </mitglied>
+  <mitglied>
+    <mitglied_id>6</mitglied_id>
+    <name>Jonas</name>
+    <team>U15</team>
+    <eintritt>2024</eintritt>
+  </mitglied>
+</mitglieder>

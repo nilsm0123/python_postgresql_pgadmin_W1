@@ -1,0 +1,76 @@
+name: Übungen prüfen
+
+# Führt alle Lösungen der Übungssammlung aus. Jede Lösung enthält Selbstkontrollen
+# (assert); liefert eine Lösung nicht mehr das erwartete Ergebnis, wird der Lauf rot.
+on:
+  push:
+    paths:
+      - "Uebungen/**"
+      - "requirements.txt"
+      - ".github/workflows/uebungen.yml"
+  pull_request:
+    paths:
+      - "Uebungen/**"
+      - "requirements.txt"
+      - ".github/workflows/uebungen.yml"
+  workflow_dispatch:
+
+jobs:
+  loesungen:
+    runs-on: ubuntu-latest
+
+    # PostgreSQL mit denselben Zugangsdaten wie in docker-compose.yml
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: pgadmin
+          POSTGRES_PASSWORD: geheim
+          POSTGRES_DB: postgres
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U pgadmin"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+
+    env:
+      PG_HOST: localhost
+      PG_PORT: "5432"
+      PG_USER: pgadmin
+      PG_PASSWORT: geheim
+      PGPASSWORD: geheim
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bibliotheken installieren
+        run: pip install -r requirements.txt
+
+      - name: SQL-Lösung Übung 03 ausführen
+        run: |
+          psql -h localhost -U pgadmin -d postgres -c "CREATE DATABASE sportverein_ci"
+          psql -h localhost -U pgadmin -d sportverein_ci -v ON_ERROR_STOP=1 \
+               -f Uebungen/03_sql_sportverein_loesung.sql
+
+      - name: Lösungs-Notebooks ausführen
+        working-directory: Uebungen
+        run: |
+          fehler=""
+          for nb in *_loesung.ipynb *_musterloesung.ipynb; do
+            echo "::group::$nb"
+            jupyter nbconvert --to notebook --execute \
+              --ExecutePreprocessor.timeout=300 \
+              --output-dir /tmp/executed "$nb" || fehler="$fehler $nb"
+            echo "::endgroup::"
+          done
+          if [ -n "$fehler" ]; then
+            echo "::error::Fehlgeschlagen:$fehler"
+            exit 1
+          fi

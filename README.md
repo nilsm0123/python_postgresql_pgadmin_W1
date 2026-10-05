@@ -21,6 +21,7 @@
 │  └─ *.csv (Northwind tables)
 ├─ SQL/
 │  └─ *.sql                    # SQL queries
+├─ Uebungen/                   # Übungen & Prüfungsvorbereitung (siehe Uebungen/README.md)
 ├─ docker-compose.yml          # Defines PostgreSQL & pgAdmin services
 ├─ Dockerfile                  # Custom image setup
 ├─ init-db.sql                 # Initial db objects
@@ -29,6 +30,10 @@
 ├─ .gitignore                  # Git ignore rules
 └─ README.md                   # Documentation (this file)
 ```
+
+## Übungen
+Die Übungssammlung mit Lernpfad und Probeprüfungen (AP01 SQL, AP02 Python & EDA) liegt im Ordner
+[`Uebungen/`](Uebungen/README.md).
 
 ## Run Docker containers (only when it does not start automatically)
 ```bash

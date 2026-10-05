@@ -1,0 +1,121 @@
+product_id,brand,model,category,size,color,weight_kg,battery_wh,range_km,price_chf,availability
+VM-30001,Cube,Reaction Hybrid Pro,E-Mountainbike,S,Weiss,25.4,800,145,3898.0,Sofort lieferbar
+VM-30002,Cube,Kathmandu Hybrid,E-Trekking,XL,Schwarz,25.7,800,145,2898.0,Ausverkauft
+VM-30003,Cube,Hyde,City,M,Grün,14.8,,,898.0,Sofort lieferbar
+VM-30004,Cube,Numovo EX,Kindervelo,L,Rot,9.3,,,279.0,Sofort lieferbar
+VM-30005,Specialized,Turbo Levo,E-Mountainbike,XL,Grau,23.2,500,90,7498.0,Lieferbar in 3–4 Wochen
+VM-30006,Specialized,Allez SL,Rennvelo,L,Grün,8.6,,,6598.0,Lieferbar in 2–5 Tagen
+VM-30009,Trek,Allant+ Comp,E-Trekking,XL,Rot,26.3,983,180,3698.0,Lieferbar in 2–5 Tagen
+VM-30011,Trek,Checkpoint One,Gravel,M,Sand,10.0,,,2898.0,Sofort lieferbar
+VM-30014,Trek,Precaliber SL,Kindervelo,XL,Grün,8.5,,,398.0,Lieferbar in 2–5 Tagen
+VM-30017,Stromer,ST3 SL,S-Pedelec,L,Schwarz,27.2,545,100,7889.0,Sofort lieferbar
+VM-30019,Flyer,Gotour Comp,E-Trekking,XL,Sand,21.4,983,180,4398.0,Sofort lieferbar
+VM-30020,Flyer,Gotour 2,E-City,S,Grau,23.6,500,90,4698.0,Lieferbar in 2–5 Tagen
+VM-30022,Scott,Addict Gravel SL,Gravel,XL,Weiss,8.9,,,1998.0,Sofort lieferbar
+VM-30025,Scott,Strike eRIDE Pro,E-Mountainbike,S,Blau,23.0,983,180,7998.0,Ausverkauft
+VM-30027,Canyon,Endurace One,Rennvelo,L,Grün,6.9,,,6098.0,Ausverkauft
+VM-30029,Canyon,Grizl Pro,Gravel,XL,Blau,10.9,,,3998.0,Sofort lieferbar
+VM-30032,Tour de Suisse,Basel EX,E-City,L,Grün,26.2,625,115,30981.0,Sofort lieferbar
+VM-30033,Tour de Suisse,Rapide EX,City,L,Weiss,16.5,,,898.0,Lieferbar in 3–4 Wochen
+VM-30034,Cube,Reaction Hybrid One,E-Mountainbike,XL,Petrol,25.8,500,90,5998.0,Sofort lieferbar
+VM-30035,Cube,Kathmandu Hybrid Comp,E-Trekking,XL,Grün,25.9,800,145,2998.0,Sofort lieferbar
+VM-30036,Cube,Hyde Pro,City,M,Schwarz,15.7,,,699.0,Sofort lieferbar
+VM-30038,Cube,Numovo One,Kindervelo,L,Petrol,9.9,,,279.0,Lieferbar in 2–5 Tagen
+VM-30041,Specialized,Turbo Levo Pro,E-Mountainbike,M,Petrol,25.6,545,100,,Lieferbar in 2–5 Tagen
+VM-30042,Specialized,Aethos Comp,Rennvelo,S,Blau,8.2,,,1998.0,Sofort lieferbar
+VM-30043,Trek,Allant+ Comp,E-Trekking,M,Rot,23.4,800,145,5098.0,Lieferbar in 2–5 Tagen
+VM-30046,Trek,Checkpoint Pro,Gravel,XL,Grau,11.3,,,3698.0,Sofort lieferbar
+VM-30049,Trek,Wahoo Pro,Kindervelo,L,Grau,6.8,,,498.0,Sofort lieferbar
+VM-30050,Stromer,ST5 Pro,S-Pedelec,XL,Sand,26.0,545,100,8389.0,Sofort lieferbar
+VM-30051,Flyer,Gotour SL,E-Trekking,L,Weiss,26.3,750,135,4998.0,Sofort lieferbar
+VM-30052,Flyer,Upstreet 1 One,E-City,L,Sand,22.0,750,135,3698.0,Sofort lieferbar
+VM-30055,Scott,Speedster Gravel,Gravel,S,Rot,9.1,,,2098.0,Sofort lieferbar
+VM-30056,Scott,Patron eRIDE Comp,E-Mountainbike,M,Schwarz,28.0,625,115,6598.0,Lieferbar in 2–5 Tagen
+VM-30057,Canyon,Endurace Pro,Rennvelo,L,Petrol,7.3,,,2698.0,Lieferbar in 2–5 Tagen
+VM-30058,Canyon,Grail Pro,Gravel,XL,Blau,8.6,,,4098.0,Ausverkauft
+VM-30059,Tour de Suisse,Genf One,E-City,M,Blau,28.3,625,115,3298.0,Sofort lieferbar
+VM-30060,Tour de Suisse,Classic EX,City,M,Schwarz,15.1,,,798.0,Sofort lieferbar
+VM-30063,Cube,Reaction Hybrid SL,E-Mountainbike,L,Grün,24.3,625,115,5398.0,Sofort lieferbar
+VM-30065,Cube,Kathmandu Hybrid Comp,E-Trekking,S,Weiss,25.9,545,100,3298.0,Sofort lieferbar
+VM-30066,Cube,Hyde Comp,City,M,Sand,15.1,,,998.0,Lieferbar in 3–4 Wochen
+VM-30069,Cube,Acid 200 One,Kindervelo,XL,Grau,9.8,,,378.0,Ausverkauft
+VM-30070,Specialized,Turbo Levo,E-Mountainbike,S,Blau,27.3,800,145,7498.0,Lieferbar in 2–5 Tagen
+VM-30071,Specialized,Allez One,Rennvelo,XL,Rot,8.2,,,2098.0,Lieferbar in 3–4 Wochen
+VM-30073,Trek,Allant+ SL,E-Trekking,S,Blau,21.6,983,180,4098.0,Sofort lieferbar
+VM-30074,Trek,Domane AL EX,Gravel,L,Weiss,10.4,,,2298.0,Lieferbar in 2–5 Tagen
+VM-30077,Trek,Wahoo,Kindervelo,XL,Schwarz,8.6,,,498.0,Sofort lieferbar
+VM-30078,Stromer,ST7 Pro,S-Pedelec,L,Grün,21.6,500,90,,Sofort lieferbar
+VM-30080,Flyer,Upstreet One,E-Trekking,XL,Sand,21.0,750,135,5098.0,Sofort lieferbar
+VM-30081,Flyer,Gotour 2,E-City,M,Schwarz,,750,135,4598.0,Ausverkauft
+VM-30083,Scott,Speedster Gravel SL,Gravel,S,Rot,11.1,,,3898.0,Sofort lieferbar
+VM-30085,Scott,Patron eRIDE,E-Mountainbike,XL,Blau,26.9,750,135,6498.0,Lieferbar in 2–5 Tagen
+VM-30086,Canyon,Ultimate Comp,Rennvelo,M,Grau,7.2,,,4498.0,Lieferbar in 2–5 Tagen
+VM-30088,Canyon,Grail EX,Gravel,XL,Weiss,10.5,,,3798.0,Sofort lieferbar
+VM-30089,Tour de Suisse,Bern EX,E-City,M,Blau,23.5,750,135,2298.0,Sofort lieferbar
+VM-30090,Tour de Suisse,Classic One,City,XL,Sand,14.8,,,998.0,Sofort lieferbar
+VM-30091,Cube,Reaction Hybrid Comp,E-Mountainbike,M,Weiss,21.9,800,145,4298.0,Sofort lieferbar
+VM-30092,Cube,Nuroad Hybrid,E-Trekking,XL,Petrol,28.3,545,100,3398.0,Ausverkauft
+VM-30095,Cube,Hyde Pro,City,S,Blau,16.3,,,699.0,Sofort lieferbar
+VM-30096,Cube,Numovo Pro,Kindervelo,M,Schwarz,9.4,,,478.0,Lieferbar in 2–5 Tagen
+VM-30098,Specialized,Turbo Levo Comp,E-Mountainbike,M,Sand,21.5,800,145,,Sofort lieferbar
+VM-30099,Specialized,Tarmac EX,Rennvelo,M,Blau,8.0,,,8098.0,Sofort lieferbar
+VM-30102,Trek,Verve+ EX,E-Trekking,L,Blau,22.9,983,180,3598.0,Lieferbar in 2–5 Tagen
+VM-30104,Trek,Domane AL Pro,Gravel,XL,Blau,10.9,,,2598.0,Sofort lieferbar
+VM-30105,Trek,Precaliber Pro,Kindervelo,M,Petrol,7.5,,,598.0,Sofort lieferbar
+VM-30106,Stromer,ST7,S-Pedelec,M,Sand,24.1,983,180,7889.0,Sofort lieferbar
+VM-30108,Flyer,Upstreet SL,E-Trekking,XL,Grün,26.6,500,90,4198.0,Ausverkauft
+VM-30111,Flyer,Upstreet 1 EX,E-City,L,Rot,21.9,545,100,3798.0,Lieferbar in 3–4 Wochen
+VM-30114,Scott,Addict Gravel One,Gravel,XL,Schwarz,10.1,,,1898.0,Lieferbar in 2–5 Tagen
+VM-30115,Scott,Strike eRIDE Comp,E-Mountainbike,L,Grün,22.5,500,90,5198.0,Sofort lieferbar
+VM-30116,Canyon,Ultimate One,Rennvelo,S,Schwarz,7.7,,,6398.0,Lieferbar in 3–4 Wochen
+VM-30117,Canyon,Grail EX,Gravel,M,Schwarz,9.3,,,4798.0,Lieferbar in 3–4 Wochen
+VM-30119,Tour de Suisse,Genf,E-City,M,Sand,26.9,800,145,3198.0,Lieferbar in 3–4 Wochen
+VM-30120,Tour de Suisse,Classic,City,S,Rot,12.8,,,599.0,Lieferbar in 2–5 Tagen
+VM-30121,Cube,Stereo Hybrid One,E-Mountainbike,M,Weiss,24.1,800,145,4798.0,Lieferbar in 3–4 Wochen
+VM-30123,Cube,Nuroad Hybrid Pro,E-Trekking,M,Rot,22.9,545,100,3198.0,Lieferbar in 3–4 Wochen
+VM-30124,Cube,Ella Ride One,City,XL,Schwarz,13.2,,,699.0,Sofort lieferbar
+VM-30127,Cube,Acid 200 Comp,Kindervelo,M,Weiss,10.6,,,378.0,Sofort lieferbar
+VM-30128,Specialized,Turbo Kenevo SL,E-Mountainbike,M,Schwarz,25.5,800,145,,Sofort lieferbar
+VM-30129,Specialized,Tarmac SL,Rennvelo,XL,Grün,6.9,,,3898.0,Sofort lieferbar
+VM-30131,Trek,Allant+ Comp,E-Trekking,M,Weiss,27.0,983,180,4098.0,Lieferbar in 2–5 Tagen
+VM-30134,Trek,Domane AL SL,Gravel,XL,Sand,9.8,,,2798.0,Sofort lieferbar
+VM-30136,Trek,Precaliber,Kindervelo,XL,Grün,9.8,,,598.0,Lieferbar in 2–5 Tagen
+VM-30137,Stromer,ST3 One,S-Pedelec,M,Grau,,625,115,6990.0,Sofort lieferbar
+VM-30138,Flyer,Upstreet,E-Trekking,XL,Grün,22.5,545,100,4198.0,Sofort lieferbar
+VM-30141,Flyer,Upstreet 1 Pro,E-City,M,Schwarz,22.5,750,135,3998.0,Sofort lieferbar
+VM-30142,Scott,Speedster Gravel Comp,Gravel,S,Grün,10.7,,,3798.0,Sofort lieferbar
+VM-30145,Scott,Strike eRIDE,E-Mountainbike,S,Petrol,24.8,545,100,7598.0,Lieferbar in 2–5 Tagen
+VM-30148,Canyon,Ultimate,Rennvelo,XL,Schwarz,8.1,,,6998.0,Sofort lieferbar
+VM-30149,Canyon,Grizl Pro,Gravel,S,Weiss,8.7,,,3898.0,Ausverkauft
+VM-30150,Tour de Suisse,Bern Pro,E-City,S,Grün,22.2,983,180,2198.0,Lieferbar in 2–5 Tagen
+VM-30152,Tour de Suisse,Rapide EX,City,M,Rot,12.7,,,798.0,Lieferbar in 2–5 Tagen
+VM-30153,Cube,Reaction Hybrid Pro,E-Mountainbike,L,Weiss,26.1,750,135,4598.0,Lieferbar in 3–4 Wochen
+VM-30154,Cube,Nuroad Hybrid EX,E-Trekking,L,Rot,28.4,983,180,3498.0,Sofort lieferbar
+VM-30156,Cube,Hyde SL,City,L,Rot,15.1,,,898.0,Lieferbar in 2–5 Tagen
+VM-30158,Cube,Numovo SL,Kindervelo,S,Grau,9.9,,,279.0,Lieferbar in 2–5 Tagen
+VM-30159,Specialized,Turbo Levo SL,E-Mountainbike,M,Blau,22.7,800,145,7298.0,Sofort lieferbar
+VM-30162,Specialized,Tarmac Pro,Rennvelo,L,Sand,9.0,,,2998.0,Lieferbar in 3–4 Wochen
+VM-30163,Trek,Allant+ One,E-Trekking,XL,Blau,25.5,800,145,5498.0,Sofort lieferbar
+VM-30164,Trek,Checkpoint,Gravel,M,Grau,9.2,,,1598.0,Sofort lieferbar
+VM-30167,Trek,Precaliber Comp,Kindervelo,S,Sand,6.8,,,498.0,Lieferbar in 3–4 Wochen
+VM-30170,Stromer,ST3 SL,S-Pedelec,L,Schwarz,25.8,500,90,,Sofort lieferbar
+VM-30173,Flyer,Gotour Pro,E-Trekking,M,Grau,21.1,625,115,4898.0,Lieferbar in 2–5 Tagen
+VM-30175,Flyer,Upstreet 1 Comp,E-City,XL,Petrol,,983,180,4698.0,Lieferbar in 3–4 Wochen
+VM-30176,Scott,Addict Gravel Comp,Gravel,S,Grau,11.2,,,4298.0,Sofort lieferbar
+VM-30177,Scott,Patron eRIDE One,E-Mountainbike,S,Weiss,21.2,545,100,5598.0,Lieferbar in 2–5 Tagen
+VM-30178,Canyon,Ultimate One,Rennvelo,XL,Weiss,9.0,,,2898.0,Sofort lieferbar
+VM-30179,Canyon,Grizl One,Gravel,L,Petrol,10.9,,,2098.0,Sofort lieferbar
+VM-30180,Tour de Suisse,Genf One,E-City,L,Grün,,500,90,2298.0,Lieferbar in 3–4 Wochen
+VM-30183,Tour de Suisse,Classic EX,City,S,Blau,14.6,,,998.0,Lieferbar in 2–5 Tagen
+VM-30184,Cube,Reaction Hybrid EX,E-Mountainbike,S,Petrol,21.4,625,115,3998.0,Lieferbar in 2–5 Tagen
+VM-30185,Cube,Nuroad Hybrid One,E-Trekking,M,Petrol,23.1,545,100,3698.0,Sofort lieferbar
+VM-30186,Cube,Ella Ride One,City,S,Sand,14.0,,,1098.0,Lieferbar in 3–4 Wochen
+VM-30187,Cube,Acid 240 One,Kindervelo,M,Petrol,7.9,,,279.0,Sofort lieferbar
+VM-30188,Specialized,Turbo Kenevo EX,E-Mountainbike,XL,Rot,26.6,545,100,,Lieferbar in 2–5 Tagen
+VM-30189,Specialized,Allez Comp,Rennvelo,M,Grau,8.7,,,7198.0,Ausverkauft
+VM-30191,Trek,Verve+ One,E-Trekking,S,Blau,28.5,545,100,3998.0,Sofort lieferbar
+VM-30192,Trek,Domane AL EX,Gravel,XL,Schwarz,8.8,,,3798.0,Sofort lieferbar
+VM-30195,Trek,Precaliber EX,Kindervelo,XL,Blau,8.6,,,498.0,Lieferbar in 2–5 Tagen
+VM-30196,Stromer,ST7 Pro,S-Pedelec,XL,Grau,21.7,750,135,8089.0,Sofort lieferbar
+VM-30199,Flyer,Gotour SL,E-Trekking,S,Sand,27.5,983,180,5398.0,Lieferbar in 3–4 Wochen
+VM-30200,Flyer,Upstreet 1 Comp,E-City,XL,Blau,24.9,500,90,4298.0,Lieferbar in 2–5 Tagen

@@ -1,0 +1,38 @@
+[
+  {
+    "mitglied_id": 1,
+    "name": "Anna",
+    "team": "U15",
+    "eintritt": 2022
+  },
+  {
+    "mitglied_id": 2,
+    "name": "Luca",
+    "team": "U15",
+    "eintritt": 2023
+  },
+  {
+    "mitglied_id": 3,
+    "name": "Mia",
+    "team": "Damen 1",
+    "eintritt": 2019
+  },
+  {
+    "mitglied_id": 4,
+    "name": "Noah",
+    "team": "Herren 1",
+    "eintritt": 2020
+  },
+  {
+    "mitglied_id": 5,
+    "name": "Lea",
+    "team": "Damen 1",
+    "eintritt": 2021
+  },
+  {
+    "mitglied_id": 6,
+    "name": "Jonas",
+    "team": "U15",
+    "eintritt": 2024
+  }
+]
